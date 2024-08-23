@@ -18,7 +18,7 @@ Welcome to the WorkflowAI Application! This project demonstrates a powerful and 
 
 ### 2. **Custom Edges with Interactive Features**
    - **Custom Edge Implementation:** Introduced custom edges with smooth transitions and arrows, enhancing visual clarity.
-   - **Edge Delete Button:** Added a delete button directly on the edge, allowing for easy removal and improving user interaction.
+   - **Edge Delete Button:** Added a delete button directly on the edge,  allowing for easy removal and improving user interaction.
 
 ### 3. **Dynamic and Responsive UI**
    - **Pipeline Toolbar:** A fully styled and responsive toolbar for dragging and dropping nodes into the pipeline, using Material-UI for a modern look and feel.
